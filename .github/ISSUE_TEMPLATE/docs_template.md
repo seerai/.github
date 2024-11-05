@@ -1,3 +1,12 @@
+---
+name: Documentation Template
+about: Suggest or fix our documentation
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## New or Exisiting ?
 <!-- Is this an issue with current documentation or do do we need to create new documentation -->
 
