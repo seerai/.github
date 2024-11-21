@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## New or Exisiting ?
+## New or Existing ?
 <!-- Is this an issue with current documentation or do do we need to create new documentation -->
 
 ## Describe what is needed ?
